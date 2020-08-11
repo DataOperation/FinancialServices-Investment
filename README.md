@@ -3,7 +3,7 @@ All reports are hosted in Microsoft Power BI Platform.
 
 ## Euiqty Index Analytics Report
 
-### NZX 50 
+### NZX 50 Index
 https://app.powerbi.com/view?r=eyJrIjoiNjUxYjdhZWItOGFjYS00MDRkLTg4YjItNjQ0ZThlNWMzNmJjIiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
 
 ### CRSP US Large Cap Value Index
