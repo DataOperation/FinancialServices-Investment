@@ -1,7 +1,7 @@
 # Investment self-service toolkit
 All reports are hosted in Microsoft Power BI Platform.
 
-## Factor Analytics for Euiqty Index Report
+## Euiqty Index Analytics Report
 
 ### NZX 50 
 https://app.powerbi.com/view?r=eyJrIjoiNjUxYjdhZWItOGFjYS00MDRkLTg4YjItNjQ0ZThlNWMzNmJjIiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
