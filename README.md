@@ -1,5 +1,4 @@
-# Investment self-service toolkit
-All reports are hosted in Microsoft Power BI Platform.
+# Investment Management Portal
 https://investmentmanagement.powerappsportals.com/
 
 ## Euiqty Index Analytics Report
@@ -19,4 +18,5 @@ https://www.infoq.com/presentations/bert-sentiment-analysis/?utm_source=email&ut
 
 
 ## Disclaimer
-This is to showcase how Microsoft Power BI platform could work in Investment Domain.
+All reports are hosted in Microsoft Power BI Platform.
+This is to showcase how Microsoft Power platform could work in Investment Domain.
