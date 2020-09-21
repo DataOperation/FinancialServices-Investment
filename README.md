@@ -1,6 +1,14 @@
 # Investment Management Portal
 https://investmentmanagement.powerappsportals.com/
 
+## Factor Modeling
+to be done
+
+
+## Macro Indicators (US only)
+https://app.powerbi.com/view?r=eyJrIjoiODFjYzhhODUtODgwMy00ODM1LWFiNTAtNDY1Y2M0YzEzMjM0IiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
+
+
 ## Euiqty Index Analytics Report
 
 ### NZX 50 Index
@@ -9,8 +17,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNjUxYjdhZWItOGFjYS00MDRkLTg4YjItNjQ0ZThlN
 ### CRSP US Large Cap Value Index
 https://app.powerbi.com/view?r=eyJrIjoiNGE1Yjk1Y2ItMTdkZC00ZmU2LWE2ZjYtZGY4N2NhZDFmZTY1IiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
 
-## Macro Indicators (US only)
-https://app.powerbi.com/view?r=eyJrIjoiODFjYzhhODUtODgwMy00ODM1LWFiNTAtNDY1Y2M0YzEzMjM0IiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
 
 ## To do list
 ### Sentiment Analysis on Sustainability Reporting
